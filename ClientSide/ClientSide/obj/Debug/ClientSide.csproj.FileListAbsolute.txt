@@ -1,0 +1,7 @@
+C:\Users\BAHRIA\source\repos\ClientSide\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\BAHRIA\source\repos\ClientSide\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\BAHRIA\source\repos\ClientSide\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\BAHRIA\source\repos\ClientSide\ClientSide\obj\Debug\ClientSide.csproj.AssemblyReference.cache
+C:\Users\BAHRIA\source\repos\ClientSide\ClientSide\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\BAHRIA\source\repos\ClientSide\ClientSide\obj\Debug\ClientSide.exe
+C:\Users\BAHRIA\source\repos\ClientSide\ClientSide\obj\Debug\ClientSide.pdb
